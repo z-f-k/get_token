@@ -13,4 +13,4 @@ Get the browser plug-in for token
 然后可以在浏览器当中使用了，当然你可以打包该浏览器
 
 测试图片显示：
-![image](https://github.com/z-f-k/get_token/img/icon128.png)
+![image](https://github.com/z-f-k/get_token/master/img/icon128.png)
